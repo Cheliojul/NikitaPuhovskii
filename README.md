@@ -1,4 +1,4 @@
 
 Learning <strong>Front End</strong>
 
-- [Preview](https://cheliojul.github.io/NikitaPuhovskii.github.io/) 
+- [Preview](https://cheliojul.github.io/NikitaPuhovskii/) 
